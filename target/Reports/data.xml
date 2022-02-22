@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="21.76552">
+<testcase classname="To validate the application" name="To verify product details" time="21.76552">
+<system-out><![CDATA[Given User launch the browser and navigates to the shopping app.............passed
+When User enters valid credentials in the shopping app......................passed
+And User clicks the SignIn button...........................................passed
+When User clicks on T-Shirt.................................................passed
+When User taps on any product...............................................passed
+Then User validates that image is loaded and displayed......................passed
+And User validates the product details......................................passed
+And User validates links for Tweet Share Google+ and Pinterest are displayed.passed
+And User validates data sheet of the product................................passed
+And User validates More Info content is displayed...........................passed
+]]></system-out>
+</testcase>
+</testsuite>
